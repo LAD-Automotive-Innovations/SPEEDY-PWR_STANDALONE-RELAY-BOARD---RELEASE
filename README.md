@@ -37,9 +37,12 @@ or simply tie the signal to GND for normal ign2 operation.
 Treate it as an opensource community project.
 
 
-Next revision is the plan too add a 3d printable enclosure. (waiting to test fit before release)
+UPDATE - 3D printable enclosure done. (early release waiting to test fit for minor improvements)
 
 Enjoy! - Automotive Innovations.
 
 <img width="1174" height="999" alt="Screenshot 2026-03-28 205644" src="https://github.com/user-attachments/assets/5a35ba09-5abe-4730-94b4-c83a64e81e7d" />
-<img width="1570" height="907" alt="Screenshot 2026-03-28 205657" src="https://github.com/user-attaments/assets/17e7f9fa-8a42-43f0-a684-d2f02144a50d" />
+<img width="1570" height="907" alt="Screenshot 2026-03-28 205657" src="https://github.com/user-attachments/assets/77a0a66b-8d42-4ace-9833-cf571ae2b885" />
+<img width="1454" height="933" alt="Screenshot 2026-04-05 210201" src="https://github.com/user-attachments/assets/2fae8192-4ae5-4520-9294-6b69f1b76840" />
+<img width="1627" height="951" alt="Screenshot 2026-04-05 210150" src="https://github.com/user-attachments/assets/3a02add8-e97f-4575-95c0-124ea027595a" />
+<img width="1577" height="974" alt="Screenshot 2026-04-06 082240" src="https://github.com/user-attachments/assets/c75e7a00-0c11-43a5-8b41-9971311fde40" />
